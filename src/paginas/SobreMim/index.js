@@ -25,15 +25,15 @@ export default function SobreMim() {
             </p>
 
             <p className={styles.paragrafo}>
-                No ensino superior, escolhi cursar Anelise e Desenvolvimento de Sistemas .
+                No ensino superior, escolhi cursar Análise e Desenvolvimento de Sistemas .
             </p>
 
             <p className={styles.paragrafo}>
-                Com isso tive minha experiência de dev mais próxima da realidade, com prazos de implementação para o site, e aprendi muito enquanto codificava.
+                Com isso, tive minha experiência de dev mais próxima da realidade, com prazos de implementação para o site, e aprendi muito enquanto codificava.
             </p>
 
             <p className={styles.paragrafo}>
-                Desde então, tem sido aprenas aprendizados atrás de aprendizados. A Alura é uma escola não só para seus alunos e alunas, mas também para os colaboradores e colaboradoras.
+                Desde então, tem sido apenas aprendizados atrás de aprendizados. A Alura é uma escola não só para seus alunos e alunas, mas também para os colaboradores e colaboradoras.
             </p>
 
         </PostModelo>
