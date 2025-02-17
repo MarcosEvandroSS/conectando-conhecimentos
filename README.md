@@ -1,6 +1,6 @@
-# Olá Mundo!
+# Conectando Conhecimentos!
 
-Olá Mundo é um projeto desenvolvido em React, com o objetivo de compartilhar conhecimentos em uma aplicação web simples, eficiente e didática. O projeto é uma Single Page Application (SPA) que utiliza o React Router DOM para gerenciar rotas dinâmicas.
+Olá esse é um projeto desenvolvido em React, com o objetivo de compartilhar conhecimentos em uma aplicação web simples, eficiente e didática. O projeto é uma Single Page Application (SPA) que utiliza o React Router DOM para gerenciar rotas dinâmicas.
 
 ## Tecnologias Utilizadas
 - **React**: Biblioteca JavaScript para criação de interfaces dinâmicas e componentes reutilizáveis.
