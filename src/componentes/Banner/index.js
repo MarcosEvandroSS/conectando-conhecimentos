@@ -7,7 +7,7 @@ export default function Banner() {
         <div className={styles.banner}>
             <div className={styles.apresentacao}>
                 <h1 className={styles.titulo}>
-                    Olá, Mundo!
+                    Conectando Conhecimentos!
                 </h1>
 
                 <p className={styles.paragrafo}>
